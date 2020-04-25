@@ -191,7 +191,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-root"]],
       decls: 13,
       vars: 2,
-      consts: [[3, "ngClass.lt-sm"], ["sidenav", ""], [3, "sidenavClose"], [1, "container", "px-0"], [3, "sidenavToggle"], [1, "p-0"], [1, "text-center", "text-md-right", "px-4", "px-md-0", "mr-md-4"], ["routerLink", "/", 1, "d-inline-block", "mb-4", "mb-md-5"], ["src", "../assets/logo-doutss-cor.svg", "height", "21px", "width", "93px"], [1, "px-4", "px-sm-0", "pt-md-5"]],
+      consts: [[3, "ngClass.lt-sm"], ["sidenav", ""], [3, "sidenavClose"], [1, "container", "px-0"], [3, "sidenavToggle"], [1, "p-0"], [1, "text-center", "text-md-right", "px-4", "px-md-0", "mr-md-4"], ["routerLink", "/", 1, "d-inline-block", "mb-4", "mb-md-5"], ["src", "assets/logo-doutss-cor.svg", "height", "21px", "width", "93px"], [1, "px-4", "px-sm-0", "pt-md-5"]],
       template: function AppComponent_Template(rf, ctx) {
         if (rf & 1) {
           var _r1 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
@@ -1082,7 +1082,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       },
       decls: 19,
       vars: 6,
-      consts: [[1, "bg-transparent", "position-relative", "mt-4", "mt-lg-5", "p-0", "mb-lg-5", "px-sm-3", "px-lg-0", 3, "ngClass.lt-sm"], ["fxHide.gt-xs", ""], ["mat-button", "", 1, "pl-0", "pr-0", 3, "click"], [3, "ngStyle"], ["routerLink", "/", 1, "logotipo", 3, "ngClass.lt-sm"], ["src", "../../../assets/logo-doutss-branco.svg", "alt", "Logotipo Doutss."], ["fxFlex", "", "fxLayout", "", "fxLayoutAlign", "start", "fxShow", "true", "fxHide.lt-sm", ""], ["fxLayout", "", "fxLayoutGap", "40px", 1, "navigation-items"], ["routerLink", "/sobre"], ["routerLink", "/produtos"], ["routerLink", "/contatos"]],
+      consts: [[1, "bg-transparent", "position-relative", "mt-4", "mt-lg-5", "p-0", "mb-lg-5", "px-sm-3", "px-lg-0", 3, "ngClass.lt-sm"], ["fxHide.gt-xs", ""], ["mat-button", "", 1, "pl-0", "pr-0", 3, "click"], [3, "ngStyle"], ["routerLink", "/", 1, "logotipo", 3, "ngClass.lt-sm"], ["src", "assets/logo-doutss-branco.svg", "alt", "Logotipo Doutss."], ["fxFlex", "", "fxLayout", "", "fxLayoutAlign", "start", "fxShow", "true", "fxHide.lt-sm", ""], ["fxLayout", "", "fxLayoutGap", "40px", 1, "navigation-items"], ["routerLink", "/sobre"], ["routerLink", "/produtos"], ["routerLink", "/contatos"]],
       template: function HeaderComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "mat-toolbar", 0);
