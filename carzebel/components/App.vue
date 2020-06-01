@@ -7,9 +7,9 @@
                     <v-btn-toggle
                         borderless
                     >
-                        <v-btn class="cor-laranja" text to="/cerimonial">Cerimonial</v-btn>
-                        <v-btn class="cor-laranja" text to="/sobre">Sobre</v-btn>
-                        <v-btn class="cor-laranja" text to="/contato">Contato</v-btn>
+                        <v-btn class="cor-laranja" text to="/paginas/carzebel/cerimonial">Cerimonial</v-btn>
+                        <v-btn class="cor-laranja" text to="/paginas/carzebel/sobre">Sobre</v-btn>
+                        <v-btn class="cor-laranja" text to="/paginas/carzebel/contato">Contato</v-btn>
                     </v-btn-toggle>
                 </nav>
                 <transition name="component-fade" mode="out-in">
