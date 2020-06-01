@@ -3,9 +3,9 @@ const AppVue = httpVueLoader('./components/App.vue');
 const router = new VueRouter({
     mode: 'history',
     routes: [
-        { path: '/', component: httpVueLoader('./components/paginas/Home.vue') },
-        { path: '/cerimonial', component:  httpVueLoader('./components/paginas/Cerimonial.vue') },
-        { path: '/sobre', component:  httpVueLoader('./components/paginas/Sobre.vue') }
+        { path: '/paginas/carzebel/', component: httpVueLoader('./components/paginas/Home.vue') },
+        { path: '/paginas/carzebel/cerimonial', component:  httpVueLoader('./components/paginas/Cerimonial.vue') },
+        { path: '/paginas/carzebel/sobre', component:  httpVueLoader('./components/paginas/Sobre.vue') }
     ]
 })
 
