@@ -59,51 +59,51 @@ module.exports = {
             imagemDestacada: null,
             imagensEventos: [
                 {
-                    "src": "../img/imagens-eventos/1.jpg",
+                    "src": "../carzebel/img/imagens-eventos/1.jpg",
                     "legenda": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
                 },
                 {
-                    "src": "../img/imagens-eventos/2.jpg",
+                    "src": "../carzebel/img/imagens-eventos/2.jpg",
                     "legenda": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
                 },
                 {
-                    "src": "../img/imagens-eventos/3.jpg",
+                    "src": "../carzebel/img/imagens-eventos/3.jpg",
                     "legenda": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
                 },
                 {
-                    "src": "../img/imagens-eventos/4.jpg",
+                    "src": "../carzebel/img/imagens-eventos/4.jpg",
                     "legenda": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
                 },
                 {
-                    "src": "../img/imagens-eventos/5.jpg",
+                    "src": "../carzebel/img/imagens-eventos/5.jpg",
                     "legenda": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
                 },
                 {
-                    "src": "../img/imagens-eventos/6.jpg",
+                    "src": "../carzebel/img/imagens-eventos/6.jpg",
                     "legenda": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
                 },
                 {
-                    "src": "../img/imagens-eventos/7.jpg",
+                    "src": "../carzebel/img/imagens-eventos/7.jpg",
                     "legenda": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
                 },
                 {
-                    "src": "../img/imagens-eventos/8.jpg",
+                    "src": "../carzebel/img/imagens-eventos/8.jpg",
                     "legenda": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
                 },
                 {
-                    "src": "../img/imagens-eventos/9.jpg",
+                    "src": "../carzebel/img/imagens-eventos/9.jpg",
                     "legenda": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
                 },
                 {
-                    "src": "../img/imagens-eventos/10.jpg",
+                    "src": "../carzebel/img/imagens-eventos/10.jpg",
                     "legenda": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
                 },
                 {
-                    "src": "../img/imagens-eventos/11.jpg",
+                    "src": "../carzebel/img/imagens-eventos/11.jpg",
                     "legenda": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
                 },
                 {
-                    "src": "../img/imagens-eventos/12.jpg",
+                    "src": "../carzebel/img/imagens-eventos/12.jpg",
                     "legenda": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
                 }
             ]
