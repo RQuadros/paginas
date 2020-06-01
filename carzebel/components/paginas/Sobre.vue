@@ -1,6 +1,6 @@
 <template>
     <section>
-        <v-img class="mb-3" src="img/carla.jpg"></v-img>
+        <v-img class="mb-3" src="paginas/carzebel/img/carla.jpg"></v-img>
         <v-container>
         <p>
             Proin nec turpis dignissim, luctus libero quis, bibendum augue. 
