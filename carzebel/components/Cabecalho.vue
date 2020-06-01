@@ -10,8 +10,8 @@
 module.exports = {
     methods: {
         navegarParaHome: function () {
-            if (this.$route.path !== '/') {
-                this.$router.push('/');
+            if (this.$route.path !== '/paginas/carzebel/') {
+                this.$router.push('/paginas/carzebel/');
             }
         }
     }
