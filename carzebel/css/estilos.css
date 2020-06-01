@@ -1,0 +1,22 @@
+:root {
+  --cor-laranja: #ff8a81;
+  --cor-marrom: #440805;
+}
+.cor-marrom {
+    color: var(--cor-marrom)!important;
+}
+.cor-laranja {
+    color: var(--cor-laranja)!important;
+}
+.bg-marrom {
+    background-color: var(--cor-marrom)!important;
+}
+.bg-laranja {
+    background-color: var(--cor-laranja)!important;
+}
+.component-fade-enter-active, .component-fade-leave-active {
+    transition: opacity .3s ease;
+}
+.component-fade-enter, .component-fade-leave-to {
+    opacity: 0;
+}
